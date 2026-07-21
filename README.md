@@ -89,7 +89,7 @@ Users and server owners may request the deletion of data associated with themsel
 
 To submit a deletion or privacy request, contact the authorized team through Senko’s official support server:
 
-**Support:** [INSERT PUBLIC SUPPORT SERVER LINK]
+**Support:** https://discord.gg/HHNYb6yRb8
 
 Requests may require verification of Discord account or server ownership. Data that exists only inside a server’s Discord channels may need to be removed by that server’s administrators.
 
@@ -107,7 +107,7 @@ This Privacy Policy may be updated when Senko’s features or legal obligations 
 
 For privacy questions, data requests or concerns, contact the authorized team through Senko’s official support server:
 
-**Support:** [INSERT PUBLIC SUPPORT SERVER LINK]
+**Support:** https://discord.gg/HHNYb6yRb8
 
 ---
 
@@ -201,7 +201,7 @@ Kullanıcılar ve sunucu sahipleri, kendileriyle veya sunucularıyla ilişkili v
 
 Silme veya gizlilik talebi göndermek için Senko’nun resmî destek sunucusundaki yetkili ekiple iletişime geçin:
 
-**Destek:** [HERKESE AÇIK DESTEK SUNUCUSU BAĞLANTISINI EKLEYİN]
+**Destek:** https://discord.gg/HHNYb6yRb8
 
 Talepler sırasında Discord hesabının veya sunucu sahipliğinin doğrulanması istenebilir. Yalnızca sunucunun Discord kanallarında bulunan kayıtların ilgili sunucu yöneticileri tarafından silinmesi gerekebilir.
 
